@@ -11,10 +11,9 @@ In addition to scheduling and booking features, Tutorly provides communication t
 Primary users of Tutorly are college students seeking for academic support, it also desgined for students who want to offer tutoring services in their areas of expertise.
 
 Features:
+
 -> Create and manage student and tutor profiles
-
 -> Search tutors based on subject and availability
-
 -> Book and manage tutoring appointments
 -> Receive session reminders and booking confirmations
 -> View tutor descriptions, qualifications, and experience
