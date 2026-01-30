@@ -28,6 +28,7 @@ Communicate directly with tutors through an in-app chat system
 
 Allow tutors to manage their schedules and session bookings
 
+
 Benefits:
 
 Makes it easier for students to find reliable academic help
