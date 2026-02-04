@@ -1,6 +1,6 @@
-# CSC45600-project-proposal-
+# Tutorly 
 
-Tutorly 
+
 
 Tutorly is a modern student–tutor connecting application designed to help students easily connect with college tutors by viewing their availability and scheduling appointments based on their skills and expertise in specific subjects. The app includes features such as session scheduling, real-time availability viewing, appointment booking, tutor profile descriptions, student feedback and rating systems, and direct communication through chat. Tutorly aims to simplify the process of finding academic help by providing a convenient and reliable platform for students to connect with qualified tutors, with additional features planned for future development.
 
